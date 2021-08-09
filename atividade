@@ -1,0 +1,161 @@
+Void main ( ) {
+ 
+ bool testDeAnd = (true & false);
+ bool complexo = (10 > 20) && ((30 < 20) II testDeAnd);
+ print(complexo); 
+ 
+ }
+ ---------------------------------------------------------------------
+ void main () {
+
+  // lista com valores inteiros
+  Lista <int> numerosInteiros = [30, 50, 60, 70];
+  imprimir (numerosInteiros);
+  --------------------------------------------------------------------
+  void main () {
+
+  // lista com valores inteiros
+  Lista <int> numerosInteiros = [55, 50, 60, 70];
+  imprimir (numerosInteiros);
+  ------------------------------------------------------------------
+  void main () {
+  
+  
+}
+ mídia dupla;
+  
+  
+  mídia = (num1 + num2 + num3) / 3;
+  
+  
+  // comando condicional de tomada de decisão
+  if (media> = 7) {
+    imprimir ('Aprovado');
+  }outro{
+    imprimir ('Reprovado');
+    
+  }
+  ------------------------------------------------------------------
+  
+ int num1 = 7;
+ int num2 = 9;
+ int num3 = 10;
+ mídia dupla;
+  
+  
+  mídia = (num1 + num2 + num3) / 3;
+  media do aluno = das 3 notas do aluno
+  
+  // comando condicional de tomada de decisão
+  if (media> = 7) {
+    imprimir ('Aprovado');
+  }outro{
+    imprimir ('Reprovado');
+    
+  }
+--------------------------------------------------------------------
+void main(){ 
+  // Repetição de 0 a 5 (conhecemos o número inicial e final)
+  // FOR (INICIO; CONDIÇÃO; INCREMENTO)
+  for(int i = 0; i < 5; i++){
+    print(i);
+  }
+  
+  void main(){ 
+  // Repetição de 0 a 5 (conhecemos o número inicial e final)
+  // FOR (INICIO; CONDIÇÃO; INCREMENTO)
+  for(int i = 0; i < 5; i++){
+    print(i);
+  }
+  ----------------------------------------------------------------
+  void main () {
+  menu int = 2;
+  String usuario = "teste";
+  String senha = "123";
+  
+  interruptor (menu)
+  {
+      caso 1:
+      print ("Cadastro de clientes");
+      
+      if (usuario == "teste" && senha == "123") {
+        imprimir ("Bem vindo ao cadastro de clientes");
+      }outro{
+         print ("usuário e senha");
+      }
+      
+       quebrar;
+    caso 2:
+      imprimir ("cadastro de fornecedor");
+      
+      if (usuario == "teste" && senha == "123") {
+        
+        print ("Bem vindos ao cadstro de fornecedores");
+      }outro{
+        print ("usuário e senha");
+      }
+      quebrar;
+      
+      caso 3:
+      imprimir ("cadastro de Produto");
+      
+      if (usuario == "teste" && senha == "123") {
+        
+        imprimir ("Bem vindos ao cadastro de Produto");
+      }outro{
+        print ("usuário e senha");
+      }
+      quebrar;
+      
+    padrão:
+      
+      imprimir ("Menu inválido");
+  }
+ ---------------------------------------------------------------------------
+void main ( ) {
+
+int= {0,12}
+int= {13,21}
+int= {22,59}
+
+}
+
+sring=(numb1,+numb2,+numb3)
+
+name= criança 
+name= jovem
+name= adulto
+ 
+  --------------------------------------------------------------------------
+void main ( ) {
+
+string:P
+
+}
+
+int = (60kg,M-61 a 74 a 85 e GG acima de 86kg)
+
+p = (60kg)
+
+p2 = (74,85)
+
+p3=(86)
+
+------------------------------------------------------------------------
+void main ( ) {
+
+string=(4%)
+
+}
+
+v.f = (valor do funcionário)
+
+v= ( x em relação ao dissídio)
+
+
+int = (2,700)
+int =(108,00)
+
+variavel= (108 = 4%)
+
+r:funcionário com menos de 1 ano de empresa
